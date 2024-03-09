@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T09:41:00 IST" name="Default suite" finished-at="2024-03-08T09:41:50 IST" duration-ms="49975">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T09:41:00 IST" name="Default test" finished-at="2024-03-08T09:41:50 IST" duration-ms="49975">
+      <class name="testcases.Test_Case_26">
+        <test-method is-config="true" signature="initialiazeBrowser()[pri:0, instance:testcases.Test_Case_26@3fc2959f]" started-at="2024-03-08T09:41:00 IST" name="initialiazeBrowser" finished-at="2024-03-08T09:41:48 IST" duration-ms="47062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiazeBrowser -->
+        <test-method signature="verifyTitle()[pri:1, instance:testcases.Test_Case_26@3fc2959f]" started-at="2024-03-08T09:41:48 IST" name="verifyTitle" finished-at="2024-03-08T09:41:48 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifySub()[pri:2, instance:testcases.Test_Case_26@3fc2959f]" started-at="2024-03-08T09:41:48 IST" name="verifySub" finished-at="2024-03-08T09:41:48 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySub -->
+        <test-method signature="verifyScrollup()[pri:3, instance:testcases.Test_Case_26@3fc2959f]" started-at="2024-03-08T09:41:48 IST" name="verifyScrollup" finished-at="2024-03-08T09:41:50 IST" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollup -->
+        <test-method signature="verifySCrollText()[pri:4, instance:testcases.Test_Case_26@3fc2959f]" started-at="2024-03-08T09:41:50 IST" name="verifySCrollText" finished-at="2024-03-08T09:41:50 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySCrollText -->
+      </class> <!-- testcases.Test_Case_26 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
